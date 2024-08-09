@@ -1,0 +1,19 @@
+{
+  "name": "ashishbackend",
+  "version": "1.0.0",
+  "description": "learn javascript or node js for leaning",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "as"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
